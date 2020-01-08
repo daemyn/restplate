@@ -2,10 +2,19 @@
 A simple boilerplate to build a quick and basic REST API, using Node.js, MongoDB and JWT for authentication.
 
 ## Features
-In order to kick start a simple yet robust REST API, this project offers the following features:
-- Feature one
-- Feature two
-- Feature three
+In order to kick start a simple yet robust REST API (thanks to its simple/straight forward structure), this project offers the following features:
+- Make your endpoints in few simple steps
+- Define your models and make your CRUD quickly using Mongoose
+- Protect your endpoints and use JWT to ask for Authorization
+- Easy Unit/E2E Tests to implement
+
+
+## Goal and orientation
+This boilerplate is intended for beginners and junior developers (Seniors might find a use of it), hence the code is meant to be simple and explicit.
+- Most of the code is commented for more context (if necessary)
+- No TypeScript; only JavaScript with some ES6 features
+- Simple folder structure but easy to adjust if needed
+- Usage of basic, common and popular libraries (for good documentation, community and support)
 
 ## Quick start
 
@@ -23,13 +32,6 @@ In order to kick start a simple yet robust REST API, this project offers the fol
 
 This decision belongs to DevOps (docker container, pm2 ...)
 
-
-## Goal and orientation
-This boilerplate is intended for beginners and junior developers (Seniors might find a use of it), hence the code is meant to be simple and explicit.
-- Most of the code is commented for more context (if necessary)
-- No TypeScript; only JavaScript with some ES6 features
-- Simple folder structure but easy to adjust if needed
-- Usage of basic, common and popular libraries (for good documentation, community and support)
 
 ## Why these packages?
 
